@@ -1,0 +1,1 @@
+https://www.coinbase.com/oauth/authorize/with-credentials?client_id=6011662b0badfa97f9fed5a246526277ff2116affa98cfaacacd012a191ba38d&scope=all

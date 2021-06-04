@@ -1,0 +1,23 @@
+Host: www.coinbase.com
+User-Agent: Coinbase/9.26.4 (com.vilcsak.bitcoin2; build:92604; iOS 14.6)
+x-cb-platform: ios
+x-os-name: ios
+x-device-model: iPhone 6s
+x-device-manufacturer: Apple
+cb-client: com.vilcsak.bitcoin2/9.26.4/92604
+x-cb-session-uuid: a6daf860-c16b-448f-95dd-ede0d5359ca2
+cb-version: 2021-01-11
+x-os-version: 14.6
+x-device-product: unknown
+x-app-build-number: 92604
+x-react-native: true
+Content-Length: 54
+x-app-version: 9.26.4
+Connection: keep-alive
+Accept-Language: fr
+Accept: */*
+Content-Type: application/json
+x-timezone-offset: 7200
+x-device-brand: Apple
+x-cb-pagekey: sign_in_credentials
+Accept-Encoding: gzip, deflate, br
